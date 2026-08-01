@@ -17,14 +17,14 @@
   <div class="cards">
     <WalletCard
       coin="Solana"
-      address="8xDyRUkJFZhZsGH1LZ2KhGJ2w5FYJiDPwp7PzhMYBFn1"
+      address="85D7NTSUYbPc7NhaqMJPh1nacyG7xD2DMV2Ey5JA3XKC"
       logoSrc={SolanaLogo}
       accent="#9945ff"
       note="USDC and USDT can also be sent to this address via the Solana network."
     />
     <WalletCard
       coin="Dogecoin"
-      address="DRf5VwTgbFc25PuL9EiCqUpF9k1qMS9Sth"
+      address="D6hP54S99CrmDeKD7qKkMDgQNP5a99YUiz"
       logoSrc={DogeLogo}
       accent="#c2a633"
     />
